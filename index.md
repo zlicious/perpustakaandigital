@@ -11,7 +11,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [Klara and the Sun A novel (Kazuo Ishiguro)](ebook/Klara and the Sun A novel (Kazuo Ishiguro).pdf)
 8. [Dune - Dune 1 (Frank Herbert)](ebook/Dune - Dune 1 (Frank Herbert).pdf)
 9. [Pride and Prejudice (Jane Austen)](ebook/Pride and Prejudice (Jane Austen).pdf)
-10. [The Odyssey (Homer, Emily Wilson)](ebook/The Odyssey (Homer, Emily Wilson).pdf)   
+10.[The Odyssey (Homer, Emily Wilson](ebook/The Odyssey (Homer, Emily Wilson.pdf)   
 11. [Zidni Latifah - 13040124130046 - UGC](ebook/Zidni Latifah - 13040124130046 - UGC.pdf)
 ---
 *Powered by GitHub Pages*
